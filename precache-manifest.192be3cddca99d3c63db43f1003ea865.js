@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/React-Movie-Application/static/media/Film5.de2fb77e.jpg"
   },
   {
-    "revision": "74559cb80375682bb1c3",
-    "url": "/React-Movie-Application/static/css/main.a1fae5b1.chunk.css"
+    "revision": "0043da02c550647674a4",
+    "url": "/React-Movie-Application/static/css/main.23f556b6.chunk.css"
   },
   {
     "revision": "dc28afd2aa2fe1015fb1",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/React-Movie-Application/static/media/Film4.6979a4ea.jpg"
   },
   {
-    "revision": "74559cb80375682bb1c3",
-    "url": "/React-Movie-Application/static/js/main.74559cb8.chunk.js"
+    "revision": "0043da02c550647674a4",
+    "url": "/React-Movie-Application/static/js/main.0043da02.chunk.js"
   },
   {
     "revision": "8915a463798eea03a3d7272ab19718ba",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/React-Movie-Application/static/media/bg-title-shop.97d4292c.png"
   },
   {
-    "revision": "05a98d450b02b51795945247a9ae0f2c",
+    "revision": "647c1d139b188748d1885567d0e51f11",
     "url": "/React-Movie-Application/index.html"
   }
 ];
