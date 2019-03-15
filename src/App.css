@@ -16,7 +16,7 @@ background:url(http://thepatternlibrary.com/img/h.jpg)!important;
   background-position: center center;
   background-repeat: no-repeat;
   background-color: #a7222b!important;
-
+ 
 }
 
 .navbar-light h1 {
@@ -95,8 +95,12 @@ margin-top:25px;
  .card-body p {
  height: 300px;
   margin :10px;
-  overflow-y: auto;
+  overflow-y: hidden;
  }
+ .card-body p:hover {
+  
+   overflow-y: auto;
+  }
  
  .card-body .heart {
   
